@@ -1,0 +1,10 @@
+// common styles
+body{
+  .clear{
+    clear:both;
+  }
+
+}
+
+// to prefix assets import in absolute paths like url:
+$plugin_url: '/wp-content/plugins/calculadora-caloria-plugin-update/customer-foods-backend/';

@@ -1,0 +1,77 @@
+html, body {
+
+}
+
+body.page-id-134 .ab-container-content,
+body.page-id-134 .gb-inside-container,
+body.page-id-134 #genesis-content,
+body.page-id-134 .full-width-content .content,
+body.page-id-134 .page.full-width-content .entry-content .alignfull,
+body.page-id-134 .site-inner {
+  max-width: 1920px !important;
+}
+body.page-id-134 .page-hero {
+  display: none;
+}
+
+body.page-id-134 .inside-article{
+  padding: 0;
+}
+
+body.page-id-134 .post-134 {
+  margin-bottom: 0;
+}
+
+body.page-id-134 #angularFrame {
+  height: 75vh !important;
+}
+
+body.page-id-134 .site-inner {
+  padding: 0;
+}
+
+body.page-id-134 .title-area {
+  display: none;
+}
+
+
+
+
+@media only screen and (max-width: 1150px) {
+  body.page-id-134 #angularFrame {
+    height: 72vh !important;
+  }
+}
+
+@media only screen and (max-width: 999px) {
+  body.page-id-134 .wp-block-atomic-blocks-ab-container.alignfull.ab-block-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 1920px !important;
+  }
+}
+
+
+@media only screen and (min-width: 1000px) {
+  body.page-id-134 .wp-block-atomic-blocks-ab-container.alignfull.ab-block-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 1920px !important;
+  }
+}
+
+body.page-id-134 #toggle-menu {
+  display: none;
+}
+
+@media only screen and (max-width: 960px) {
+  body.page-id-134 #toggle-menu {
+    display: block;
+  }
+
+  body.page-id-134 #angularFrame {
+    height: 68vh !important;
+  }
+}
+
+
